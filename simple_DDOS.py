@@ -3,7 +3,7 @@ import threading
 
 
 TARGET = '192.168.7.1' # (attacking my router)
-PORT = 80 # taking down pages on the internet (port 80)
+PORT = 80 # taking down pages on the internet (http)
 FAKE_IP = '182.21.20.32' # to "hide" my ip.
 
 
